@@ -1,11 +1,5 @@
 ## Hi I'm Kevin, and welcome to my GitHub!
-**Here's just a _little bit_ about me...**
-- 🌱 I’m currently a student at California State, Long Beach
-- 💞️ I’m looking to collaborate on Go, Swift and projects Blockchain related
-- I'm a proud part of **NSBE**, the National Society of Black Engineers
-- 📫 How to reach me:
-  - **Email:** Kevincbabou@gmail.com
-  - **LinkedIn:** https://www.linkedin.com/in/kevin-babou
+linkedin.com/in/kevin-babou
   - **Instagram:** kevinncb
 
 <!---
